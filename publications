@@ -1,0 +1,449 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Pooya Hatami - Publications</title>
+
+  <style>
+    body {
+      margin: 25px 0 40px 50px;
+      max-width: 950px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 13px;
+      line-height: 1.3;
+      color: #000;
+      background: #fff;
+    }
+
+    h1 {
+      font-size: 20px;
+      margin: 0 0 8px 0;
+    }
+
+    h2 {
+      font-size: 15px;
+      margin-top: 22px;
+      margin-bottom: 6px;
+    }
+
+    p {
+      margin: 5px 0;
+    }
+
+    ol, ul {
+      margin-top: 6px;
+      padding-left: 24px;
+    }
+
+    li {
+      margin-bottom: 9px;
+    }
+
+    a {
+      color: #0000cc;
+      text-decoration: underline;
+    }
+
+    .links {
+      white-space: nowrap;
+    }
+
+    .small {
+      font-size: 12px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Publications</h1>
+
+<p>
+<a href="index.html">Home</a> |
+<a href="teaching.html">Teaching</a> |
+<a href="cv.pdf">CV</a> |
+<a href="https://scholar.google.com/citations?hl=en&user=VNJ9di0AAAAJ">Google Scholar</a>
+</p>
+
+<h2>Monographs and surveys</h2>
+
+<ul>
+  <li>
+    Structure in Communication Complexity and Constant-Cost Complexity Classes,
+    with Hamed Hatami.
+    Invited survey article for ACM SIGACT News Complexity Theory Column.
+    <span class="links">
+      [<a href="https://dl.acm.org/doi/10.1145/3654780.3654788">SIGACT</a>]
+      [<a href="https://eccc.weizmann.ac.il/report/2024/012/">ECCC</a>]
+      [<a href="https://arxiv.org/abs/2401.14623">arXiv</a>]
+    </span>
+  </li>
+
+  <li>
+    Paradigms for Unconditional Pseudorandom Generators,
+    with William M. Hoza.
+    Foundations and Trends in Theoretical Computer Science.
+    <span class="links">
+      [<a href="https://www.nowpublishers.com/article/Details/TCS-109">FnTTCS</a>]
+      [<a href="https://eccc.weizmann.ac.il/report/2023/019/">old version</a>]
+    </span>
+  </li>
+
+  <li>
+    Higher Order Fourier Analysis and Applications,
+    with Hamed Hatami and Shachar Lovett.
+    Foundations and Trends in Theoretical Computer Science,
+    Vol. 13, No. 4, pp. 247--448.
+    <span class="links">
+      [<a href="https://www.nowpublishers.com/article/Details/TCS-064">FnTTCS</a>]
+      [<a href="https://pooyahatami.org/wp-content/uploads/2019/09/0400000064-plain.pdf">free plain version</a>]
+    </span>
+  </li>
+
+  <li>
+    Variations on the Sensitivity Conjecture,
+    with Raghav Kulkarni and Denis Pankratov.
+    Theory of Computing Library, Graduate Surveys 4 (2011), 1--27.
+    <span class="links">
+      [<a href="https://toctest.cs.uchicago.edu/articles/gs004/">ToC</a>]
+    </span>
+  </li>
+</ul>
+
+<h2>Papers</h2>
+
+<ol reversed start="41">
+
+  <li>
+    Tight list replicability bounds via a novel sphere covering theorem,
+    with Ari Blondal, Hamed Hatami, Chavdar Lalov, and Sivan Tretiak.
+    COLT 2026.
+    <span class="links">[<a href="https://arxiv.org/abs/2606.06148">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Simplicial covering dimension of extremal concept classes,
+    with Ari Blondal, Hamed Hatami, Chavdar Lalov, and Sivan Tretiak.
+    ITCS 2026.
+    <span class="links">[<a href="https://arxiv.org/abs/2511.11819">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Borsuk-Ulam and Replicable Learning of Large-Margin Halfspaces,
+    with Ari Blondal, Hamed Hatami, Chavdar Lalov, and Sivan Tretiak.
+    STOC 2026.
+    <span class="links">[<a href="https://arxiv.org/abs/2503.15294">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Stability and List-Replicability for Agnostic Learners,
+    with Ari Blondal, Shan Gao, and Hamed Hatami.
+    COLT 2025.
+    <span class="links">[<a href="https://arxiv.org/abs/2501.05333">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Constant-Cost Communication is not Reducible to k-Hamming Distance,
+    with Yuting Fang, Nathan Harms, and Mika Goos.
+    STOC 2025.
+    <span class="links">[<a href="https://arxiv.org/abs/2407.20204">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Hilbert Functions and Low-Degree Randomness Extractors,
+    with Alexander Golovnev, Zeyu Guo, Satyajeet Nagargoje, and Chao Yan.
+    RANDOM 2024.
+    <span class="links">
+      [<a href="https://arxiv.org/abs/2405.10277">arXiv</a>]
+      [<a href="https://eccc.weizmann.ac.il/report/2024/092/">ECCC</a>]
+    </span>
+  </li>
+
+  <li>
+    No Complete Problem for Constant-Cost Randomized Communication,
+    with Yuting Fang, Lianna Hambardzumyan, and Nathan Harms.
+    STOC 2024.
+    <span class="links">
+      [<a href="https://pooyahatami.org/wp-content/uploads/2024/06/stoc24main-p637-p-5a9791b7f4-77196-final.pdf">conference version</a>]
+      [<a href="https://arxiv.org/abs/2404.00812">arXiv</a>]
+    </span>
+  </li>
+
+  <li>
+    Online Learning and Disambiguations of Partial Concept Classes,
+    with Tsun-Ming Cheung, Hamed Hatami, and Kaave Hosseini.
+    ICALP 2023. Best Paper.
+    <span class="links">[<a href="https://arxiv.org/abs/2303.17578">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Depth-d Threshold Circuits vs. Depth-(d+1) AND-OR Trees,
+    with William M. Hoza, Avishay Tal, and Roei Tell.
+    STOC 2023.
+    <span class="links">[<a href="https://eccc.weizmann.ac.il/report/2022/087/">ECCC</a>]</span>
+  </li>
+
+  <li>
+    Dimension-free Bounds and Structural Results in Communication Complexity,
+    with Lianna Hambardzumyan and Hamed Hatami.
+    Israel Journal of Mathematics, 2023.
+    <span class="links">
+      [<a href="https://link.springer.com/article/10.1007/s11856-022-2365-8">IJM</a>]
+      [<a href="https://eccc.weizmann.ac.il/report/2021/066/">ECCC</a>]
+    </span>
+  </li>
+
+  <li>
+    The Implicit Graph Conjecture is False,
+    with Hamed Hatami.
+    FOCS 2022.
+    <span class="links">[<a href="https://arxiv.org/abs/2111.13198">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Lower Bound Methods for Sign-rank and their Limitations,
+    with Hamed Hatami, William Pires, Ran Tao, and Rosie Zhao.
+    RANDOM 2022.
+    <span class="links">[<a href="https://eccc.weizmann.ac.il/report/2022/079/">ECCC</a>]</span>
+  </li>
+
+  <li>
+    A counter-example to the probabilistic universal graph conjecture via randomized communication complexity,
+    with Lianna Hambardzumyan and Hamed Hatami.
+    Discrete Applied Mathematics, 2022.
+    <span class="links">
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0166218X2200097X">DAM</a>]
+      [<a href="https://arxiv.org/abs/2111.10436">arXiv</a>]
+    </span>
+  </li>
+
+  <li>
+    Fooling Constant-Depth Threshold Circuits,
+    with William M. Hoza, Avishay Tal, and Roei Tell.
+    FOCS 2021.
+    <span class="links">[<a href="https://eccc.weizmann.ac.il/report/2021/002/">ECCC</a>]</span>
+  </li>
+
+  <li>
+    On Multilinear Forms: Bias, Correlation, and Tensor Rank,
+    with Abhishek Bhrushundi, Prahladh Harsha, Swastik Kopparty, and Mrinal Kumar.
+    RANDOM 2020.
+    <span class="links">[<a href="https://arxiv.org/abs/1804.09124">arXiv</a>]</span>
+  </li>
+
+  <li>
+    XOR Lemmas for Resilient Functions against Polynomials,
+    with Eshan Chattopadhyay, Kaave Hosseini, Shachar Lovett, and David Zuckerman.
+    STOC 2020.
+    <span class="links">[<a href="https://eccc.weizmann.ac.il/report/2019/145/">ECCC</a>]</span>
+  </li>
+
+  <li>
+    Log-Seed Pseudorandom Generators via Iterated Restrictions,
+    with Dean Doron and William M. Hoza.
+    CCC 2020.
+    <span class="links">[<a href="https://eccc.weizmann.ac.il/report/2019/149/">ECCC</a>]</span>
+  </li>
+
+  <li>
+    Tight Bound on the Number of Relevant Variables in a Bounded Degree Boolean Function,
+    with John Chiarelli and Michael Saks.
+    Combinatorica, 2020.
+    <span class="links">
+      [<a href="https://link.springer.com/article/10.1007/s00493-019-4136-7">journal</a>]
+      [<a href="https://arxiv.org/abs/1801.08564">arXiv</a>]
+    </span>
+  </li>
+
+  <li>
+    Biasing Boolean Functions and Collective Coin-Flipping Protocols over Arbitrary Product Distributions,
+    with Yuval Filmus, Lianna Hambardzumyan, Hamed Hatami, and David Zuckerman.
+    ICALP 2019.
+    <span class="links">[<a href="https://arxiv.org/abs/1902.07426">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Near-Optimal Pseudorandom Generators for Constant-Depth Read-Once Formulas,
+    with Dean Doron and William Hoza.
+    CCC 2019.
+    <span class="links">[<a href="https://eccc.weizmann.ac.il/report/2018/183/">ECCC</a>]</span>
+  </li>
+
+  <li>
+    Pseudorandom generators from the second Fourier level and applications to AC0 with parity gates,
+    with Eshan Chattopadhyay, Shachar Lovett, and Avishay Tal.
+    ITCS 2018.
+    <span class="links">[<a href="https://eccc.weizmann.ac.il/report/2018/155/">ECCC</a>]</span>
+  </li>
+
+  <li>
+    Pseudorandom Generators from Polarizing Random Walks,
+    with Eshan Chattopadhyay, Kaave Hosseini, and Shachar Lovett.
+    CCC 2018; Theory of Computing 2019, CCC'18 Special Issue.
+    <span class="links">
+      [<a href="https://eccc.weizmann.ac.il/report/2018/015/">ECCC</a>]
+      [<a href="https://theoryofcomputing.org/articles/v015a010/">ToC</a>]
+    </span>
+  </li>
+
+  <li>
+    Improved Pseudorandomness for Unordered Branching Programs through Local Monotonicity,
+    with Eshan Chattopadhyay, Omer Reingold, and Avishay Tal.
+    STOC 2018.
+    <span class="links">[<a href="https://eccc.weizmann.ac.il/report/2017/171/">ECCC</a>]</span>
+  </li>
+
+  <li>
+    Approximate Local Decoding of Cubic Reed-Muller Codes Beyond the List Decoding Radius,
+    with Madhur Tulsiani.
+    SODA 2018.
+    <span class="links">
+      [<a href="https://home.ttic.edu/~madhurt/Papers/rm-decoding.pdf">pdf</a>]
+      [<a href="https://epubs.siam.org/doi/10.1137/1.9781611975031.43">proceedings</a>]
+    </span>
+  </li>
+
+  <li>
+    Pseudorandom Generators for Low-Sensitivity Functions,
+    with Avishay Tal.
+    ITCS 2018.
+    <span class="links">
+      [<a href="https://eccc.weizmann.ac.il/report/2017/025/">ECCC</a>]
+      [<a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2018.29">proceedings</a>]
+    </span>
+  </li>
+
+  <li>
+    Low-Sensitivity Functions from Unambiguous Certificates,
+    with Shalev Ben-David and Avishay Tal.
+    ITCS 2017.
+    <span class="links">[<a href="https://arxiv.org/abs/1605.07084">arXiv</a>]</span>
+  </li>
+
+  <li>
+    General systems of linear forms: equidistribution and true complexity,
+    with Hamed Hatami and Shachar Lovett.
+    Advances in Mathematics, 292:446--477, 2016.
+    <span class="links">
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0001870816000505">journal</a>]
+      [<a href="https://eccc.weizmann.ac.il/report/2014/040/">ECCC</a>]
+      [<a href="https://www.ias.edu/video/csdm/2015/1124-Hatami">talk video</a>]
+    </span>
+  </li>
+
+  <li>
+    A characterization of functions with vanishing averages over products of disjoint sets,
+    with Hamed Hatami and Yaqiao Li.
+    European Journal of Combinatorics, 56 (2016), 81--93.
+    <span class="links">
+      [<a href="https://arxiv.org/abs/1411.2314">arXiv</a>]
+      [<a href="https://www.ias.edu/video/csdm/2016/0419-Hatami">talk video</a>]
+    </span>
+  </li>
+
+  <li>
+    On the structure of quintic polynomials.
+    RANDOM 2016.
+    <span class="links">[<a href="https://arxiv.org/abs/1510.05334">arXiv</a>]</span>
+  </li>
+
+  <li>
+    An Arithmetic Analogue of Fox's Triangle Removal Argument,
+    with Sushant Sachdeva and Madhur Tulsiani.
+    Online Journal of Analytic Combinatorics 11 (2016).
+    <span class="links">
+      [<a href="https://hosted.math.rochester.edu/ojac/vol11/124.pdf">OJAC</a>]
+      [<a href="https://arxiv.org/abs/1304.4921">arXiv</a>]
+    </span>
+  </li>
+
+  <li>
+    Algorithmic Regularity for Polynomials and Applications,
+    with Arnab Bhattacharyya and Madhur Tulsiani.
+    SODA 2015.
+    <span class="links">
+      [<a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611973730.125">proceedings</a>]
+      [<a href="https://arxiv.org/abs/1311.5090">arXiv</a>]
+    </span>
+  </li>
+
+  <li>
+    Every locally characterized affine-invariant property is testable,
+    with Arnab Bhattacharyya, Eldar Fischer, Hamed Hatami, and Shachar Lovett.
+    STOC 2013.
+    <span class="links">
+      [<a href="https://eccc.weizmann.ac.il/report/2012/184/">ECCC</a>]
+      [<a href="https://arxiv.org/abs/1212.3849">arXiv</a>]
+    </span>
+  </li>
+
+  <li>
+    Variations on the Sensitivity Conjecture,
+    with Raghav Kulkarni and Denis Pankratov.
+    Theory of Computing Library, Graduate Surveys 4 (2011), 1--27.
+    <span class="links">[<a href="https://toctest.cs.uchicago.edu/articles/gs004/">ToC</a>]</span>
+  </li>
+
+  <li>
+    A lower Bound for the length of a Partial Transversal in a Latin Square,
+    with Peter W. Shor.
+    Journal of Combinatorial Theory, Series A, 115, 7 (2008), 1103--1113.
+    <span class="links">[<a href="https://doi.org/10.1016/j.jcta.2008.01.002">doi</a>]</span>
+  </li>
+
+  <li>
+    Distance-Sensitive Property Testing Lower Bounds,
+    with Joshua Brody.
+    Manuscript.
+    <span class="links">[<a href="https://arxiv.org/abs/1304.6685">arXiv</a>]</span>
+  </li>
+
+  <li>
+    Perfect dominating sets in the Cartesian products of prime cycles,
+    with Hamed Hatami.
+    Electronic Journal of Combinatorics, Vol. 14 (2007), N8.
+    <span class="links">[<a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v14i1n8">EJC</a>]</span>
+  </li>
+
+  <li>
+    Measure preserving homomorphisms and independent sets in tensor graph powers,
+    with Babak Behsaz.
+    Discrete Mathematics, 309, 4 (2009), 955--958.
+    <span class="links">[<a href="https://arxiv.org/abs/1008.3213">arXiv</a>]</span>
+  </li>
+
+  <li>
+    On the signed edge domination number of graphs,
+    with Saeed Akbari, Sadegh Bolouki, and Milad Siami.
+    Discrete Mathematics, 309, 3 (2009), 587--594.
+    <span class="links">[<a href="https://arxiv.org/abs/1008.3217">arXiv</a>]</span>
+  </li>
+
+  <li>
+    On minimum vertex cover of generalized Petersen graphs,
+    with Mehdi Behzad and E. S. Mahmoodian.
+    Bulletin of the ICA, 56 (2009), 98--102.
+    <span class="links">[<a href="https://combinatoire.ca/ICA/ICA56.html">ICA</a>]</span>
+  </li>
+
+  <li>
+    An Approximation Algorithm for the Total Covering Problem.
+    Discussiones Mathematicae Graph Theory, 27, 3 (2007), 553--560.
+    <span class="links">[<a href="https://arxiv.org/abs/1008.3216">arXiv</a>]</span>
+  </li>
+
+  <li>
+    On minimum vertex covers in generalized Petersen graphs,
+    with Babak Behsaz and E. S. Mahmoodian.
+    Australasian Journal of Combinatorics, 40 (2007), 253--264.
+    <span class="links">[<a href="https://arxiv.org/abs/1008.3208">arXiv</a>]</span>
+  </li>
+
+</ol>
+
+<p class="small">
+Last updated: June 2026.
+</p>
+
+</body>
+</html>
